@@ -25,4 +25,5 @@ void input () {						// Procedure Input
 
 	for (int i = 0; i < n; i++)						// Menggunakan perulangan for untuk menyimpan data pada array
 	{
+		cout << "Data ke-" << ": ";					// Masukkan nilai data n kedalam array arr
 	}
