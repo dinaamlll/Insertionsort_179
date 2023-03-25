@@ -30,3 +30,7 @@ void input() {						// Procedure Input
 	}
 }
 
+void insertionsort() {						// Procedure Insertionsort
+
+
+}
